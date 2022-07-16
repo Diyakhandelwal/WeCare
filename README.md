@@ -5,7 +5,7 @@ through various features and facilities which includes options to-<br>
 1. Upload Reports. <br>
 2. Real-Time Chat.  <br>
 3. Video call.  <br>
-4  A Dynamic Graph of Blood Pressure and Diabetes (Sugar) Readings across the date.  <br>
+4. A Dynamic Graph of Blood Pressure and Diabetes (Sugar) Readings across the date.  <br>
 5. Easy Interaction.  <br>
 6. Book appointments.
 
